@@ -1,0 +1,29 @@
+{
+  "enable": true,
+  "env": [
+    {
+      "VAR_ROOT": "$PRJ/tools_var/houdini"
+    },
+    {
+      "HOUDINI_EXTERNAL_HELP_BROWSER": "1"
+    },
+    {
+      "HOUDINI_ENABLE_TABLET": "1"
+    },
+    {
+      "HOUDINI_OTLSCAN_PATH": "$VAR_ROOT/hda;@/otls"
+    },
+    {
+      "HOUDINI_SCRIPT_PATH": "$VAR_ROOT/scripts"
+    },
+    {
+      "PYTHONPATH": "$VAR_ROOT/scripts"
+    },
+    {
+      "HOUDINI_TOOLBAR_PATH": "$VAR_ROOT/toolbar"
+    },
+	{
+      "HOUDINI_DESK_PATH": "$VAR_ROOT/desktop"
+    },
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "enable": true,
+  "env": [
+    {
+      "HTOA_DIR": "C:/tools/htoa_5.6.0.0_18.5.462"
+    },
+    {
+      "HOUDINI_DSO_ERROR": "2"
+    },
+    {
+      "HOUDINI_PATH": "$HTOA_DIR"
+    },
+    {
+      "PATH": "$HTOA_DIR/scripts/bin"
+    }
+  ]
+}
