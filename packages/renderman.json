@@ -1,0 +1,23 @@
+{
+  "enable": false,
+  "env": [
+    {
+      "RMAN": "C:/Program Files/Pixar"
+    },
+    {
+      "RMANTREE": "$RMAN/RenderManProServer-23.3"
+    },
+    {
+      "RFHTREE": "$RMAN/RenderManForHoudini-23.3"
+    },
+    {
+      "RMAN_PROCEDURALPATH": "$RFHTREE/18.0/openvdb"
+    },
+    {
+      "HOUDINI_PATH": "$RFHTREE/18.0"
+    },
+    {
+      "PATH": "$RMANTREE/bin"
+    }
+  ]
+}
