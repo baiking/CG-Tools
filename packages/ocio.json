@@ -1,8 +1,0 @@
-{
-  "enable": true,
-  "env": [
-    {
-      "OCIO": "C:/tools/aces_1.2/config.ocio"
-    }
-  ]
-}
